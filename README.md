@@ -8,7 +8,7 @@
 
 This project is for educational porpuses only. 
 
-Site published at  
+Site published at https://vaidmine.github.io/00_grid/
 
 
 ### Authors
